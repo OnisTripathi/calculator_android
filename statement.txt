@@ -1,0 +1,37 @@
+USER MANUAL
+
+Notes on how to use:
+-I decided to do this section because the format given does not work with multi operational string
+-a%b : you get to choose modulo amount
+-a√b : supports root index and radicand
+-I left more comments than usual, because I am going to keep building this out
+
+
+resources used:
+1.https://www.jetbrains.com/help/idea/create-your-first-android-application.html#6af1fb1d
+2.TA
+3.https://gist.github.com/erikcox/abbbc4b03a52211b12a5e116c0c7035b
+4.https://howtodoinjava.com/java/xml/parse-string-to-xml-dom/
+5.https://developer.android.com/guide/topics/ui/controls/button
+6.CRASH COURSE
+	-https://www.youtube.com/watch?v=tZvjSl9dswg
+7.https://stackoverflow.com/questions/3543454/subscript-and-superscript-a-string-in-android
+8. xml constant (not in video)
+	-https://stackoverflow.com/questions/8492355/android-assigning-a-constant-value-to-a-xml-element
+9. https://developer.android.com/reference/kotlin/androidx/compose/ui/text/font/FontWeight
+10. haxm error 
+	-https://www.youtube.com/watch?v=Qo4m6HdUBCQ
+11. Installed Build Tools Revision 31.0.0 Is Corrupted
+	-https://www.youtube.com/watch?v=5Cj-lhc7fkM
+12. https://docs.oracle.com/javase/7/docs/api/java/text/DecimalFormat.html
+13/14/15. shunting yard algorithm 
+	-https://stackoverflow.com/questions/28350999/building-a-math-expression-parser-evaluator
+	-https://www.youtube.com/watch?v=Wz85Hiwi5MY
+	-https://en.wikipedia.org/wiki/Shunting-yard_algorithm
+16. infix/prefix
+	-https://www.youtube.com/watch?v=MeRb_1bddWg
+17. sq root symbol
+	-https://stackoverflow.com/questions/7317061/how-to-include-square-root-sign-as-depicted-in-the-following-image-in-android
+	
+	
+
